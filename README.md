@@ -1,4 +1,4 @@
-# Data-Analytics-Internship-Projects
+# Data-Analytics-on-Stock-Prices
 Python-based data analytics internship projects covering data cleaning, EDA, visualization, regression analysis, time series analysis, and K-Means clustering using real-world datasets.
 
 This repository contains analytical tasks completed during a Data Analytics Internship Program using Python and data analytics libraries.
