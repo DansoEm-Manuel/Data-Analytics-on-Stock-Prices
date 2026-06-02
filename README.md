@@ -8,7 +8,7 @@ Python-based data analytics internship projects covering data cleaning, explorat
 
 * [Project Overview](#-project-overview)
 * [Tools & Libraries](#-tools--libraries)
-* [Project Structure](#-project-structure)
+ 
 * [Level 1 – Foundational Data Analytics](#-level-1--foundational-data-analytics)
 
   * [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
