@@ -262,4 +262,4 @@ The repository demonstrates proficiency in:
 👩‍💻 Danso Emmanuel Effah
 *Data Analyst*
 📍 Ghana
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/danso-emmanuel/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/danso-emmanuel)
