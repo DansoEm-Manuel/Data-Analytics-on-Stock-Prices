@@ -45,17 +45,16 @@ The projects focus on transforming raw stock market data into actionable insight
 * Jupyter Notebook
 
 ---
+## 📁 Project Files
 
-## 📂 Project Structure
-Data-Analytics-on-Stock-Prices/
-│
-├── Data Cleaning and Processing.ipynb
-├── Exploratory Data Analysis.ipynb
-├── Basic Data Visualization.ipynb
-├── Regression Analysis.ipynb
-├── Time Series Analysis.ipynb
-├── K-means Clustering.ipynb
-└── README.md
+| Notebook | Description |
+|-----------|------------|
+| Data Cleaning and Processing.ipynb | Data cleaning and preprocessing |
+| Exploratory Data Analysis.ipynb | Statistical analysis and exploration |
+| Basic Data Visualization.ipynb | Data visualization techniques |
+| Regression Analysis.ipynb | Predictive modeling with Linear Regression |
+| Time Series Analysis.ipynb | Trend and seasonality analysis |
+| K-means Clustering.ipynb | Unsupervised machine learning |
 
 ---
 
